@@ -1,0 +1,7 @@
+{
+  "name": "Typography Tree",
+  "description": "A generative typographic tree that grows based on user input, featuring seasonal themes and voice recognition.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
